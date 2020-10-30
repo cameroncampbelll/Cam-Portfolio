@@ -11,8 +11,8 @@ html{
 body{
   margin: 3rem 0 0 0;
   font-family: 'Poppins', sans-serif;
-  font-size: 0.938rem;
-  color: #0e2431;
+  font-size: 1rem;
+  color: #000000;
 }
 
 h1,h2,p{
@@ -125,7 +125,7 @@ img{
   width: 100%;
   height: 0.18rem;
   left: 0;
-  top: 2rem;
+  top: 1rem;
   background-color: #4070f4;
 }
 
@@ -183,8 +183,8 @@ img{
 .home_social-icon{
   width: max-content;
   margin-bottom: 1rem;
-  font-size: 1.5rem;
-  color: #0e2431;
+  font-size: 1.7rem;
+  color: black;
 }
 
 .home_social-icon:hover{
@@ -205,7 +205,7 @@ img{
   color: #fff;
   padding: .75rem 2.5rem;
   font-weight: 600;
-  border-radius: .5rem;
+  border-radius: 1.5rem;
 }
 
 .button:hover{
@@ -270,6 +270,7 @@ img{
 
 .skills_img{
   border-radius: .5rem;
+  
 }
 
 
@@ -437,4 +438,9 @@ strong {
 
 .cam-logo{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+hr {
+    width: 50%;
+    box-shadow: 0 0 20px black;
 }

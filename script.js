@@ -11,7 +11,7 @@ let showMenu = (toggleId, navId) => {
 showMenu('nav-toggle', 'nav-menu')
 
 
-let navLink = document.querySelectorAll('.nav__link');
+let navLink = document.querySelectorAll('.nav_link');
 
 function linkAction() {
 
