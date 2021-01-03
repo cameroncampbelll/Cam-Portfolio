@@ -263,9 +263,9 @@ img {
   align-items: center;
 }
 
-.skills_img {
+/* /* .skills_img {
   border-radius: 0.5rem;
-}
+} */
 
 .work_container {
   row-gap: 2rem;
@@ -427,10 +427,10 @@ strong {
   color: #4070f4;
 }
 
-.skills-wrap {
+/* .skills-wrap {
   display: flex;
   justify-content: space-between;
-}
+} */
 
 .cam-logo {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
